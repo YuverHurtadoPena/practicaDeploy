@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  host_services_api: "https://spring-angular-git.herokuapp.com/"
 };
